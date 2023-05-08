@@ -1,5 +1,5 @@
-package org.example;
-
+package test.java.org.example;
+import main.java.org.example.Main;
 import org.junit.jupiter.api.Assertions;
 
 class MainTest {
